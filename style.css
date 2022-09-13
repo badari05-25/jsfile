@@ -1,0 +1,35 @@
+.cardtop {
+    background: blue;
+    color: white;
+    padding: 0px 0px 8px;
+    border-radius: 4px;
+}
+
+.mt-10{
+    margin-top: 10rem;
+}
+
+.photo{
+    width: 100%;
+}
+
+.photobg{
+    background-color: blue;
+}
+
+.contentbg{
+    background-color: aliceblue;
+    padding-top: 3rem;
+    padding-left: 1rem;
+}
+
+.bglight{
+    color: #929283;
+}
+
+#display_image{
+    width: 150px;
+    height: 210px;
+    background-position: center;
+    background-size: cover;
+}
